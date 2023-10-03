@@ -1,9 +1,8 @@
 import React from 'react';
-
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import ShoppingCart from './pages/ShoppingCart';
-
+// Verdeli :D
 import './App.css';
 
 class App extends React.Component {
